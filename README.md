@@ -1,2 +1,0 @@
-# DevOps
-DevOps Learning course
